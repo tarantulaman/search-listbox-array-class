@@ -1,7 +1,7 @@
 **INFORMACION DEL PROYECTO**
 
-* Nombre completo del proyecto: *Buscar datos de forma rapida en un listbox cargado con un array*
-* Número de proyecto: *2*
+* Nombre completo del proyecto: *Buscar datos de forma rapida en un listbox cargado con un array dentro de una clase*
+* Número de proyecto: *3*
 ---
 
 #### TABLA DE CONTENIDOS:
